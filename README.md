@@ -1,4 +1,4 @@
-# Course-Projects
+# Power BI --BF.Lubs
 
 **Description:**  
 Built during Power BI course with Professor Bruce fonseca. Analyzed sales performance using course dataset.
