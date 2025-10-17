@@ -9,4 +9,4 @@ Built during Power BI course with Professor Bruce fonseca. Analyzed sales perfor
 - KPIs to track sales performance  
 
 **Screenshot:**  
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/Leomgama/Course-Projects/blob/b8a776af762500dc118d14586859c037cdd55eb3/Dashboard%201/first_dashboard_coursework.png)
